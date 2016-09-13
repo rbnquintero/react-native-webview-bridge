@@ -11,6 +11,7 @@
  */
 
 #import "RCTView.h"
+#import <objc/runtime.h>
 
 @class RCTWebViewBridge;
 
